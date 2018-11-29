@@ -1,0 +1,16 @@
+{
+  "mods": [
+    {
+      "name": "Conspire",
+      "id": "conspire",
+      "website": "https://github.com/twanvl/sts-conspire",
+      "description": "Adds new monsters, elites, bosses, relics, cards, potions and events.",
+      "authors": [
+        227881303255547900
+      ],
+      "repos": [
+        "https://twanvl.nl/files/sts-export/items.json"
+      ]
+    }
+  ]
+}
